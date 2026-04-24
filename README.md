@@ -5,3 +5,5 @@ Primeira alteração local no README
 Primeira Alteração remoto no README
 
 Segunda alteração remota no README
+
+Um CONFLITO local
