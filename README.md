@@ -1,9 +1,12 @@
 # ads-ico-2026
-Repositório teste para a aula de Introdução a computação, ministrada pelo Diego Medeiros - IFSC. 
+Repositório teste para a aula de Introdução a computação, ministrada pelo Diego Medeiros - IFSC.
+ 
 Primeira alteração local no README
 
 Primeira Alteração remoto no README
 
 Segunda alteração remota no README
 
-Um CONFLITO local
+Um Conflito Local
+
+Um Conflito Remoto
